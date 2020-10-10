@@ -1,0 +1,10 @@
+
+[+] URL:http://127.0.0.1:8000/admin/login/ USERNAME:ahmed PASSWORD:12345678a
+
+[+] URL:http://127.0.0.1:8000/admin/auth/user/add/ USERNAME:amr PASSWORD:Ahmed2003
+
+[+] URL:http://127.0.0.1:8000/accounts/signup USERNAME:ahmed21 PASSWORD:Mido2059
+
+[+] URL:http://127.0.0.1:8000/admin/auth/user/add/ USERNAME:ahmed2 PASSWORD:Mido2059
+
+[+] URL:http://127.0.0.1:8000/accounts/login/ USERNAME:ahmed3 PASSWORD:Mido2059
